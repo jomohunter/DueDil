@@ -1,0 +1,777 @@
+[
+    {
+        "question_id": 1,
+        "question": "- What is the legal entity of the company, and is it compliant with all applicable laws?",
+        "answer": "The company, Crypto Capital Partners, is a GmbH (Gesellschaft mit beschr?nkter Haftung) headquartered in Switzerland. It is fully compliant with Swiss FINMA regulations and EU AMLD5 directives, as well as securities laws such as MiFID II, the U.S. Securities Act, and local Know Your Customer (KYC) regulations."
+    },
+    {
+        "question_id": 2,
+        "question": "Are there any changes in the legal structure over time?",
+        "answer": "Insufficient data to answer. \n\nHowever, it is mentioned that Crypto Capital Partners has \"maintained a stable legal structure since its inception in 2018.\" This suggests that there have been no significant changes in the firm's legal structure over time, but does not provide conclusive evidence of whether any minor updates or adjustments occurred after 2018."
+    },
+    {
+        "question_id": 3,
+        "question": "Are all necessary licenses and permits in place?",
+        "answer": "Yes. The firm is fully compliant with Swiss FINMA regulations and EU AMLD5 directives, holding all necessary licenses to operate across multiple jurisdictions, including the European Union, Singapore, and the United States."
+    },
+    {
+        "question_id": 4,
+        "question": "- Is the company compliant with relevant securities and commodities laws?",
+        "answer": "Yes. The company complies with securities laws such as MiFID II, the U.S. Securities Act, and local Know Your Customer (KYC) regulations."
+    },
+    {
+        "question_id": 5,
+        "question": "Are there any sanctions restrictions or transaction monitoring requirements?",
+        "answer": "Regular transaction monitoring is performed using Chainalysis and Elliptic tools to detect potential AML and sanctions issues, and Anti-Money Laundering (AML) policies are reviewed annually by an independent compliance team. Additionally, the firm maintains active partnerships with Binance Custody, Chainalysis, and Coinbase Institutional, which implies that they have measures in place for compliance with sanctions restrictions and transaction monitoring requirements."
+    },
+    {
+        "question_id": 6,
+        "question": "How does the company handle AML policies and procedures?",
+        "answer": "Crypto Capital Partners' Anti-Money Laundering (AML) policies are reviewed annually by an independent compliance team. Additionally, it performs regular transaction monitoring and sanctions screening using Chainalysis and Elliptic tools to maintain its KYC and AML compliance."
+    },
+    {
+        "question_id": 7,
+        "question": "- What IP assets does the company own, and are they valid?",
+        "answer": "Crypto Capital Partners owns several IP assets, including:\n\n1. Proprietary portfolio management algorithms\n2. A secured digital asset custody system\n\nAll IPs are registered and validated under Swiss and EU intellectual property laws. There are currently no ongoing IP infringement cases or legal disputes."
+    },
+    {
+        "question_id": 8,
+        "question": "Are there any potential IP infringement issues?",
+        "answer": "No ongoing IP infringement cases or legal disputes. All IPs are registered and validated under Swiss and EU intellectual property laws."
+    },
+    {
+        "question_id": 9,
+        "question": "How are IP rights allocated among stakeholders?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 10,
+        "question": "- Are there any ongoing or past legal disputes?",
+        "answer": "No ongoing IP infringement cases or legal disputes."
+    },
+    {
+        "question_id": 11,
+        "question": "What are the potential financial exposures from these disputes?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 12,
+        "question": "- How are digital assets stored and secured?",
+        "answer": "Digital assets are stored using a combination of cold wallets and multi-signature wallets managed via Fireblocks. Additionally, ownership is verified on-chain using Merkle proof attestations. All custody solutions are audited by third-party security firms. \n\nThe company also uses smart contract auditing tools such as CertiK and Trail of Bits. Moreover, two-factor authentication and end-to-end encryption are mandated across all internal systems. The source code for core infrastructure is partially open-source."
+    },
+    {
+        "question_id": 13,
+        "question": "Are multi-signature wallets used for custody?",
+        "answer": "Yes. Multi-signature wallets are mentioned as part of the combination of cold wallets and multi-signature wallets managed via Fireblocks."
+    },
+    {
+        "question_id": 14,
+        "question": "What measures are in place to verify asset ownership?",
+        "answer": "Ownership is verified on-chain using Merkle proof attestations."
+    },
+    {
+        "question_id": 15,
+        "question": "- What are the procedures for buying and selling digital assets?",
+        "answer": "Insufficient data to answer. The provided text does not explicitly describe the procedures for buying and selling digital assets, but it mentions \"strict compliance protocols\" and \"automated surveillance systems\" in place for trading."
+    },
+    {
+        "question_id": 16,
+        "question": "Are there any trade surveillance mechanisms to prevent market manipulation?",
+        "answer": "Yes. Trading follows strict compliance protocols and uses automated surveillance systems to detect market manipulation."
+    },
+    {
+        "question_id": 17,
+        "question": "- Are there any conflicts of interest among stakeholders?",
+        "answer": "Insufficient data to answer. No information provided about potential conflicts of interest among stakeholders, such as board members or executives with competing interests."
+    },
+    {
+        "question_id": 18,
+        "question": "How are these conflicts managed?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 19,
+        "question": "- What is the understanding of the current regulatory environment?",
+        "answer": "Insufficient data to answer.\n\nHowever, based on the provided context, it appears that Crypto Capital Partners is fully compliant with various regulations such as Swiss FINMA, EU AMLD5 directives, MiFID II, and U.S. Securities Act. It also mentions regular reviews of Anti-Money Laundering (AML) policies and annual updates to training, operational risk management, tax compliance, and insurance coverage. This suggests that the firm has a strong understanding of the current regulatory environment in various jurisdictions."
+    },
+    {
+        "question_id": 20,
+        "question": "Are there any potential regulatory risks to the portfolio?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 21,
+        "question": "- What blockchain technology is used, and how secure is it?",
+        "answer": "The company uses Ethereum, Solana, and Avalanche integrations with Chainlink and The Graph.\n\nInsufficient data to assess the security level of these specific blockchains in this context. However, the use of audited custody solutions (Fireblocks), third-party security firms (e.g., Kudelski Security), and smart contract auditing tools (CertiK and Trail of Bits) suggests that security is a priority for Crypto Capital Partners."
+    },
+    {
+        "question_id": 22,
+        "question": "Are smart contracts audited for vulnerabilities?",
+        "answer": "Yes. The company uses smart contract auditing tools such as CertiK and Trail of Bits. Additionally, it has a bug bounty program to resolve smart contract vulnerabilities through coordination with ethical hackers."
+    },
+    {
+        "question_id": 23,
+        "question": "- What cybersecurity measures are in place to protect against hacks?",
+        "answer": "Regular penetration tests are conducted by Kudelski Security, digital assets are stored using a combination of cold wallets and multi-signature wallets managed via Fireblocks, and all custody solutions are audited by third-party security firms. Two-factor authentication and end-to-end encryption are also mandated across all internal systems."
+    },
+    {
+        "question_id": 24,
+        "question": "Are two-factor authentication and end-to-end encryption used?",
+        "answer": "Yes. Two-factor authentication and end-to-end encryption are mandated across all internal systems."
+    },
+    {
+        "question_id": 25,
+        "question": "- Is the codebase open-source or proprietary?",
+        "answer": "The source code for core infrastructure is partially open-source under an MIT license and available on GitHub."
+    },
+    {
+        "question_id": 26,
+        "question": "Are there any known vulnerabilities or inefficiencies?",
+        "answer": "Yes, there is mention of \"known inefficiencies\" specifically fee slippage during high volatility, which the fund is addressing with off-chain execution layers."
+    },
+    {
+        "question_id": 27,
+        "question": "- How user-friendly is the platform or product?",
+        "answer": "User feedback suggests that the fund's reporting interface is intuitive. Onboarding could be improved, however."
+    },
+    {
+        "question_id": 28,
+        "question": "Are there any pain points or areas for improvement?",
+        "answer": "Yes, user feedback suggests onboarding could be improved. Known inefficiencies, such as fee slippage during high volatility, are currently being addressed with off-chain execution layers."
+    },
+    {
+        "question_id": 29,
+        "question": "- Are financial statements audited and transparent?",
+        "answer": "Yes. Regular cost audits and financial statements are published quarterly and verified by PwC."
+    },
+    {
+        "question_id": 30,
+        "question": "What is the financial health of the company?",
+        "answer": "Insufficient data to answer.\n\nHowever, it can be noted that:\n\n* Regular cost audits are conducted quarterly.\n* Financial statements are published quarterly and verified by PwC.\n* Revenue is diversified across staking, market-making, and venture investments."
+    },
+    {
+        "question_id": 31,
+        "question": "- How are digital assets valued?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 32,
+        "question": "Are valuations consistent with market standards?",
+        "answer": "Insufficient data to answer. There is no information provided about the valuation methodology or techniques used by Crypto Capital Partners, making it impossible to determine if their valuations are consistent with market standards."
+    },
+    {
+        "question_id": 33,
+        "question": "- What are the primary funding sources?",
+        "answer": "$50M in Series A from major institutional investors like a16z and Pantera Capital. Plans are also mentioned for a Series B next year, but it's not specified who the participants would be."
+    },
+    {
+        "question_id": 34,
+        "question": "Are revenue s diversified and sustainable?",
+        "answer": "Revenue is diversified across staking, market-making, and venture investments. Regular cost audits and financial statements are published quarterly and verified by PwC. Insufficient data to confirm long-term sustainability of these revenue streams."
+    },
+    {
+        "question_id": 35,
+        "question": "- What is the market position of the company?",
+        "answer": "Insufficient data to answer.\n\nNote: While it mentions that investors like a16z and Pantera Capital are among its clients, and plans for a Series B next year are mentioned, there is no specific information provided about the company's current market position (e.g. # of funds under management, growth rate, market share)."
+    },
+    {
+        "question_id": 36,
+        "question": "Are there any competitors or market gaps?",
+        "answer": "Insufficient data to answer. The provided context does not mention competitors or market gaps."
+    },
+    {
+        "question_id": 37,
+        "question": "- Is the digital strategy aligned with business goals?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 38,
+        "question": "Are there plans for future scalability and growth?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 39,
+        "question": "- How active is the community around the project?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 40,
+        "question": "Are developers and stakeholders engaged?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 41,
+        "question": "- Does the project rely on energy-intensive mining methods?",
+        "answer": "No, the fund avoids energy-intensive Proof-of-Work assets."
+    },
+    {
+        "question_id": 42,
+        "question": "Are there initiatives to reduce energy consumption?",
+        "answer": "Yes, through its membership in the Crypto Climate Accord, the fund supports green initiatives aimed at reducing energy consumption."
+    },
+    {
+        "question_id": 43,
+        "question": "- Are there any sustainability practices or policies in place?",
+        "answer": "Yes. Environmental sustainability is a priority. The fund avoids energy-intensive Proof-of-Work assets, supports green initiatives via the Crypto Climate Accord, and provides ESG progress reports aligned with the UN PRI."
+    },
+    {
+        "question_id": 44,
+        "question": "How does the company address environmental concerns?",
+        "answer": "The fund prioritizes Environmental Sustainability, avoids energy-intensive Proof-of-Work assets, and supports green initiatives via the Crypto Climate Accord. It also integrates sustainability into its governance decisions through quarterly votes and public documentation."
+    },
+    {
+        "question_id": 45,
+        "question": "- What is the governance structure of the project?",
+        "answer": "The board of directors consists of experienced professionals from finance, law, and technology sectors. Governance decisions are voted on quarterly and publicly documented."
+    },
+    {
+        "question_id": 46,
+        "question": "Who holds decision-making power?",
+        "answer": "The board of directors, consisting of experienced professionals from finance, law, and technology sectors, holds decision-making power, with governance decisions voted on quarterly and publicly documented."
+    },
+    {
+        "question_id": 47,
+        "question": "- Who are the major stakeholders?",
+        "answer": "a16z, Pantera Capital, accredited investors. Additionally, institutional partners like Binance Custody, Chainalysis, and Coinbase Institutional."
+    },
+    {
+        "question_id": 48,
+        "question": "Is the project decentralized or centralized?",
+        "answer": "Insufficient data to answer.\n\n(Note: While the firm has some decentralization aspects, such as smart contracts on-chain and a partially open-source core infrastructure, other factors like custody solutions (cold wallets and multi-signature wallets), ownership verification, and governance decisions suggest a more centralized management structure.)"
+    },
+    {
+        "question_id": 49,
+        "question": "- How does the company ensure compliance with international laws and regulations?",
+        "answer": "The firm is fully compliant with Swiss FINMA regulations and EU AMLD5 directives, as well as securities laws such as MiFID II, the U.S. Securities Act, and local Know Your Customer (KYC) regulations. It has maintained a stable legal structure since its inception in 2018 and holds all necessary licenses to operate across multiple jurisdictions, including the European Union, Singapore, and the United States. Additionally, it performs regular AML policies reviews annually by an independent compliance team and conducts annual updates on training, operational risk management, tax compliance, and insurance coverage."
+    },
+    {
+        "question_id": 50,
+        "question": "Are there any specific jurisdictions where operations are restricted?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 51,
+        "question": "- How does the company handle user data privacy?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 52,
+        "question": "Are there any data protection policies in place?",
+        "answer": "Yes, the company mandates two-factor authentication and end-to-end encryption across all internal systems."
+    },
+    {
+        "question_id": 53,
+        "question": "- What are the tax obligations of the company in different jurisdictions?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 54,
+        "question": "Are there any tax disputes or pending issues?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 55,
+        "question": "- Are all necessary regulatory filings up to date?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 56,
+        "question": "- What risk management strategies are in place for market volatility?",
+        "answer": "Insufficient data to answer fully, but one risk mitigation measure mentioned is the use of automated surveillance systems to detect market manipulation. Additionally, off-chain execution layers are being explored to address issues like fee slippage during high volatility."
+    },
+    {
+        "question_id": 57,
+        "question": "Are there any hedging strategies used?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 58,
+        "question": "- Does the company have insurance coverage for digital assets?",
+        "answer": "Yes. The company mentions \"cyberinsurance\" in its continuity plan."
+    },
+    {
+        "question_id": 59,
+        "question": "What are the terms and conditions of the insurance policy?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 60,
+        "question": "- Is there a business continuity plan in place for unexpected disruptions?",
+        "answer": "Yes. The firm's continuity plan includes geographic redundancy, disaster recovery protocols, and cyberinsurance."
+    },
+    {
+        "question_id": 61,
+        "question": "How does the company ensure operational resilience?",
+        "answer": "The firm's continuity plan includes geographic redundancy, disaster recovery protocols, cyberinsurance, regular penetration tests conducted by Kudelski Security, and smart contract vulnerabilities are resolved through a bug bounty program."
+    },
+    {
+        "question_id": 62,
+        "question": "- Are background checks conducted on employees handling sensitive information?",
+        "answer": "Insufficient data to answer. The provided text does not mention background checks on employees handling sensitive information."
+    },
+    {
+        "question_id": 63,
+        "question": "What are the criteria for hiring personnel in critical roles?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 64,
+        "question": "- What technologies are used in the development of the platform or product?",
+        "answer": "The technology stack includes Ethereum, Solana, and Avalanche integrations with Chainlink and The Graph. Additionally, the source code for core infrastructure is partially open-source under an MIT license and available on GitHub."
+    },
+    {
+        "question_id": 65,
+        "question": "Are these technologies scalable and secure?",
+        "answer": "Based on the provided context, it appears that:\n\n* The company uses robust security measures, including multi-signature wallets, Merkle proof attestations, and third-party audits.\n* Automated surveillance systems detect market manipulation and strict compliance protocols are in place for trading.\n* Regular penetration tests are conducted by Kudelski Security to identify vulnerabilities.\n* Smart contract vulnerabilities are resolved through a bug bounty program with ethical hackers.\n\nAdditionally, the technology stack includes integrations with Chainlink and The Graph, which are known for their scalability and security features. \n\nOverall, it seems that these technologies are both scalable and secure."
+    },
+    {
+        "question_id": 66,
+        "question": "- How often is penetration testing conducted to identify vulnerabilities?",
+        "answer": "Regular penetration tests are conducted by Kudelski Security. (Insufficient data to answer the specific frequency of these tests.)"
+    },
+    {
+        "question_id": 67,
+        "question": "Are the results of these tests publicly available or shared with stakeholders?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 68,
+        "question": "- Does the company contribute to open-source projects?",
+        "answer": "Yes. The firm actively contributes to open-source initiatives and regulatory dialogues in the EU and Asia-Pacific, according to the provided text."
+    },
+    {
+        "question_id": 69,
+        "question": "How does this contribute to the overall ecosystem?",
+        "answer": "The fund supports environmental sustainability through its membership with the Crypto Climate Accord and avoids energy-intensive Proof-of-Work assets, contributing positively to the ecosystem's environmental concerns. It also contributes to the ecosystem by:\n\n* Integrating with open-source protocols like Chainlink and The Graph\n* Participating in regulatory dialogues in the EU and Asia-Pacific\n* Actively contributing to open-source initiatives\n* Engaging with other reputable institutions through partnerships (e.g., Binance Custody, Chainalysis, Coinbase Institutional)\n* Enhancing security and compliance standards within the ecosystem."
+    },
+    {
+        "question_id": 70,
+        "question": "- Are APIs properly secured to prevent unauthorized access?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 71,
+        "question": "Are there any documented API security protocols?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 72,
+        "question": "- Are revenue s diversified across different markets or products?",
+        "answer": "Yes, revenue is diversified across staking, market-making, and venture investments."
+    },
+    {
+        "question_id": 73,
+        "question": "How does the company manage revenue volatility?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 74,
+        "question": "- What are the major expense categories for the company?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 75,
+        "question": "Are there any cost-saving initiatives in place?",
+        "answer": "Yes, addressing fee slippage during high volatility through off-chain execution layers is a cost-saving initiative mentioned. Regular cost audits are also conducted quarterly."
+    },
+    {
+        "question_id": 76,
+        "question": "- What are the details of past funding rounds?",
+        "answer": "The firm raised $50M in Series A from major institutional investors like a16z and Pantera Capital, with plans for a Series B next year."
+    },
+    {
+        "question_id": 77,
+        "question": "Are there any plans for future funding rounds?",
+        "answer": "Yes, the firm has plans for a Series B next year."
+    },
+    {
+        "question_id": 78,
+        "question": "- How frequently are financial reports published?",
+        "answer": "Financial statements are published quarterly and verified by PwC."
+    },
+    {
+        "question_id": 79,
+        "question": "Are these reports audited by external firms?",
+        "answer": "Yes, the financial statements are verified by PwC (PricewaterhouseCoopers), an external auditing firm. Additionally, regular cost audits are published quarterly."
+    },
+    {
+        "question_id": 80,
+        "question": "- Who are the main competitors in the market?",
+        "answer": "Insufficient data to answer. The provided context only mentions that Crypto Capital Partners has received investments from notable firms such as a16z and Pantera Capital, but it does not provide information on their direct competitors in the market."
+    },
+    {
+        "question_id": 81,
+        "question": "How does the company differentiate itself from competitors?",
+        "answer": "The firm differentiates itself through its emphasis on environmental sustainability, as evidenced by its membership in the Crypto Climate Accord and avoidance of energy-intensive Proof-of-Work assets. Additionally, its focus on governance and compliance, including quarterly voted decisions, public documentation, and regular audits, demonstrates a commitment to transparency and accountability."
+    },
+    {
+        "question_id": 82,
+        "question": "- What market research methods are used to understand customer needs?",
+        "answer": "Insufficient data to answer. The provided context does not mention any market research methods used to understand customer needs, focusing instead on the firm's operational, technical, and governance aspects."
+    },
+    {
+        "question_id": 83,
+        "question": "Are there any customer feedback mechanisms in place?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 84,
+        "question": "- What are the short-term and long-term growth strategies?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 85,
+        "question": "Are these strategies aligned with market trends?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 86,
+        "question": "- Are there any strategic partnerships or collaborations?",
+        "answer": "Yes, Crypto Capital Partners maintains active partnerships with Binance Custody, Chainalysis, and Coinbase Institutional. Additionally, the firm actively contributes to open-source initiatives and regulatory dialogues in the EU and Asia-Pacific."
+    },
+    {
+        "question_id": 87,
+        "question": "How do these partnerships contribute to the company's growth?",
+        "answer": "Active partnerships with Binance Custody, Chainalysis, and Coinbase Institutional support the firm's operations, regulatory compliance, and potentially facilitate further investments. These collaborations may also help Crypto Capital Partners expand its reach and reputation within the industry."
+    },
+    {
+        "question_id": 88,
+        "question": "What is the carbon footprint of the company's operations?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 89,
+        "question": "Are there any initiatives to reduce this footprint?",
+        "answer": "Yes. The fund avoids energy-intensive Proof-of-Work assets and supports green initiatives via the Crypto Climate Accord. This suggests a proactive effort to reduce their environmental footprint."
+    },
+    {
+        "question_id": 90,
+        "question": "- Are there any sustainable practices or policies in place for operations?",
+        "answer": "Yes, environmental sustainability is a priority. The fund avoids energy-intensive Proof-of-Work assets and supports green initiatives via the Crypto Climate Accord. Additionally, governance decisions are voted on quarterly and publicly documented, which may include ESG considerations."
+    },
+    {
+        "question_id": 91,
+        "question": "How does the company promote sustainability within its ecosystem?",
+        "answer": "The fund promotes environmental sustainability through its membership in the Crypto Climate Accord, which supports green initiatives. It also avoids energy-intensive Proof-of-Work assets and prioritizes environmental sustainability as a priority. Additionally, it publishes quarterly ESG progress reports aligned with the UN PRI."
+    },
+    {
+        "question_id": 92,
+        "question": "- How does the company manage its supply chain to ensure sustainability?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 93,
+        "question": "Are there any audits conducted to ensure compliance with sustainability standards?",
+        "answer": "Yes, the company uses smart contract auditing tools such as CertiK and Trail of Bits to audit smart contracts. Additionally, custody solutions are audited by third-party security firms. The firm's ESG progress reports aligned with the UN PRI also suggest audits or assessments for environmental sustainability standards."
+    },
+    {
+        "question_id": 94,
+        "question": "- Who are the members of the board of directors?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 95,
+        "question": "What are their backgrounds and expertise?",
+        "answer": "The board of directors consists of experienced professionals from finance, law, and technology sectors."
+    },
+    {
+        "question_id": 96,
+        "question": "- How are major decisions made within the company?",
+        "answer": "Governance decisions are voted on quarterly and publicly documented. The board of directors consists of experienced professionals from finance, law, and technology sectors."
+    },
+    {
+        "question_id": 97,
+        "question": "Are there any checks and balances in place?",
+        "answer": "Yes, the firm has implemented several checks and balances, including:\n\n* Independent compliance team reviews AML policies annually\n* Quarterly board of directors meetings for governance decisions\n* Regular penetration tests by Kudelski Security\n* Bug bounty program with coordination from ethical hackers to resolve smart contract vulnerabilities\n* Two-factor authentication and end-to-end encryption across all internal systems"
+    },
+    {
+        "question_id": 98,
+        "question": "- Who are the major shareholders?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 99,
+        "question": "Are there any voting agreements or restrictions?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 100,
+        "question": "- How does the company engage with stakeholders, including investors and users?",
+        "answer": "The company engages with stakeholders through a secure investor portal, quarterly townhalls, ESG progress reports aligned with the UN PRI, and regular updates on reporting interface improvements based on user feedback."
+    },
+    {
+        "question_id": 101,
+        "question": "Are there any mechanisms for feedback and communication?",
+        "answer": "Yes, stakeholder communication happens via a secure investor portal, quarterly townhalls, and ESG progress reports aligned with the UN PRI."
+    },
+    {
+        "question_id": 102,
+        "question": "Are there any restrictions on operations in certain countries?",
+        "answer": "Insufficient data to answer. However, it is mentioned that Crypto Capital Partners holds all necessary licenses to operate across multiple jurisdictions, including the European Union, Singapore, and the United States. This suggests that they have obtained the required permits for these specific regions, but it does not necessarily imply that there are no restrictions on operations in other countries."
+    },
+    {
+        "question_id": 103,
+        "question": "- Have all necessary regulatory approvals been obtained?",
+        "answer": "Yes, Crypto Capital Partners is fully compliant with Swiss FINMA regulations and EU AMLD5 directives, holds all necessary licenses to operate across multiple jurisdictions, including the European Union, Singapore, and the United States."
+    },
+    {
+        "question_id": 104,
+        "question": "Are there any pending applications or approvals?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 105,
+        "question": "- What are the key terms of major contracts with partners or suppliers?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 106,
+        "question": "Are there any potential liabilities from these contracts?",
+        "answer": "Insufficient data to answer. The provided text does not explicitly state the terms, conditions, or potential liabilities associated with the smart contract vulnerabilities that were resolved through the bug bounty program. However, it does mention regular penetration tests conducted by Kudelski Security and the use of smart contract auditing tools such as CertiK and Trail of Bits, which could help mitigate potential risks."
+    },
+    {
+        "question_id": 107,
+        "question": "- How does the company handle disputes with customers or partners?",
+        "answer": "Insufficient data to answer. \n\nThere is no mention of dispute resolution processes for customer or partner disputes in the provided context."
+    },
+    {
+        "question_id": 108,
+        "question": "Are there any arbitration or mediation processes in place?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 109,
+        "question": "- What are the potential risks in the supply chain, and how are they mitigated?",
+        "answer": "Insufficient data to answer.\n\nNote: The provided context does not mention specific supply chain risks or mitigation measures related to the supply chain. It focuses on internal controls, security, and regulatory compliance rather than external supply chain management."
+    },
+    {
+        "question_id": 110,
+        "question": "Are there any contingency plans for supply chain disruptions?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 111,
+        "question": "- What training programs are in place for employees handling sensitive operations?",
+        "answer": "Training, operational risk management, tax compliance, and insurance coverage are all updated annually."
+    },
+    {
+        "question_id": 112,
+        "question": "- What customer support mechanisms are in place?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 113,
+        "question": "How does the company measure customer satisfaction?",
+        "answer": "Insufficient data to answer. There is no mention of customer satisfaction metrics or measurement methods in the provided context."
+    },
+    {
+        "question_id": 114,
+        "question": "- Does the company have business interruption insurance?",
+        "answer": "Yes, the company has cyberinsurance, which covers a related risk but not explicitly stated as business interruption insurance. However, the continuity plan includes disaster recovery protocols, suggesting some level of protection for potential disruptions."
+    },
+    {
+        "question_id": 115,
+        "question": "What are the terms and conditions of this insurance?",
+        "answer": "Insufficient data to answer. The context mentions \"cyberinsurance\" as part of the firm's continuity plan, but does not provide specific details about the terms and conditions of the insurance policy."
+    },
+    {
+        "question_id": 116,
+        "question": "- What measures are in place to secure the company's infrastructure?",
+        "answer": "The company uses:\n\n* Smart contract auditing tools such as CertiK and Trail of Bits\n* Two-factor authentication and end-to-end encryption across all internal systems\n* Partially open-source core infrastructure under an MIT license available on GitHub, which allows for community-driven security audits\n* Annual updates to training, operational risk management, tax compliance, and insurance coverage, disclosed in the due diligence pack\n\nAdditionally, they conduct regular smart contract vulnerability resolution through a bug bounty program with ethical hackers."
+    },
+    {
+        "question_id": 117,
+        "question": "Are there any intrusion detection systems or firewalls?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 118,
+        "question": "- How often are code reviews conducted to ensure quality and security?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 119,
+        "question": "Are these reviews conducted by internal teams or external auditors?",
+        "answer": "Insufficient data to answer. However, it is mentioned that AML policies are reviewed annually and conducted by an independent compliance team. This suggests that at least some regulatory aspects (AML) may be audited externally."
+    },
+    {
+        "question_id": 120,
+        "question": "- How scalable is the technology infrastructure?",
+        "answer": "The fund's core infrastructure is partially open-source under an MIT license and available on GitHub, which suggests that scalability might be feasible as contributors can review and improve the code. Additionally, the use of off-chain execution layers to address inefficiencies like fee slippage implies a consideration for scalability during high volatility periods. However, specific metrics or details about the technology infrastructure's current scalability are not provided in the given context."
+    },
+    {
+        "question_id": 121,
+        "question": "Are there plans for upgrading infrastructure to meet growing demand?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 122,
+        "question": "- Are there data backup and recovery processes in place?",
+        "answer": "Yes, the firm's continuity plan includes disaster recovery protocols as part of its geographic redundancy strategy, indicating that data backup and recovery processes are indeed in place."
+    },
+    {
+        "question_id": 123,
+        "question": "How frequently are backups performed?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 124,
+        "question": "- How does the company manage cash flow?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 125,
+        "question": "Are there any cash flow projections available?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 126,
+        "question": "What are the company's financial planning strategies?",
+        "answer": "Regular cost audits and financial statements are published quarterly and verified by PwC. Revenue is diversified across staking, market-making, and venture investments. The firm raised $50M in Series A from major institutional investors like a16z and Pantera Capital."
+    },
+    {
+        "question_id": 127,
+        "question": "Are there any budgeting processes in place?",
+        "answer": "Insufficient data to answer. There is mention of regular cost audits and financial statements being published quarterly and verified by PwC, but specific information about budgeting processes is not provided."
+    },
+    {
+        "question_id": 128,
+        "question": "- Are there any tax planning strategies to minimize liabilities?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 129,
+        "question": "Are these strategies compliant with all applicable laws?",
+        "answer": "Insufficient data to answer.\n\nThe provided text mentions adherence to \"KYC regulations\" and AML policies reviewed annually, but it does not explicitly confirm compliance with all applicable laws in the context of cryptocurrency operations. It only provides evidence of measures taken to maintain regulatory standards through third-party tools (e.g., Chainalysis and Elliptic) and an independent compliance team."
+    },
+    {
+        "question_id": 130,
+        "question": "- Who are the company's auditors and accountants?",
+        "answer": "PwC (quarterly financial statements verification) and Kudelski Security (auditing conducted)."
+    },
+    {
+        "question_id": 131,
+        "question": "Are financial statements audited annually?",
+        "answer": "Regular cost audits and financial statements are published quarterly and verified by PwC."
+    },
+    {
+        "question_id": 132,
+        "question": "- What market analysis tools are used to understand customer needs?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 133,
+        "question": "Are there any market research reports available?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 134,
+        "question": "- How does the company analyze its competitors?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 135,
+        "question": "Are there any strategies to stay competitive in the market?",
+        "answer": "'Insufficient data to answer.'"
+    },
+    {
+        "question_id": 136,
+        "question": "- What metrics are used to measure growth and success?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 137,
+        "question": "Are these metrics aligned with business ectives?",
+        "answer": "Insufficient data to answer.\n\nThe provided context only describes the firm's practices, policies, and partnerships but does not explicitly mention its business objectives. To determine whether these metrics align with business objectives, additional information about what the company aims to achieve is required."
+    },
+    {
+        "question_id": 138,
+        "question": "- Are there any exit strategies for investors or stakeholders?",
+        "answer": "Insufficient data to answer. There is no information provided on the firm's plans for investor or stakeholder exits, such as redemption procedures or liquidity management."
+    },
+    {
+        "question_id": 139,
+        "question": "What are the potential exit options (e.g., IPO, acquisition)?",
+        "answer": "Insufficient data to answer.\n\nHowever, it can be inferred that there is a possibility of an exit through M&A due to the fund's significant Series A funding ($50M) from institutional investors like a16z and Pantera Capital. The fact that plans are in place for a Series B next year may also suggest that the fund's founders are building towards an exit."
+    },
+    {
+        "question_id": 140,
+        "question": "- Does the company publish sustainability reports?",
+        "answer": "Yes. ESG progress reports aligned with the UN PRI are published quarterly."
+    },
+    {
+        "question_id": 141,
+        "question": "Are these reports audited or verified by external parties?",
+        "answer": "Yes, the financial statements are published quarterly and verified by PwC. Additionally, regulatory compliance is reviewed annually and conducted by an independent compliance team, and custody solutions are audited by third-party security firms such as Kudelski Security. \n\nAlso, it's mentioned that regular cost audits are performed, implying some level of external verification or audit, although the specifics are not provided in this snippet."
+    },
+    {
+        "question_id": 142,
+        "question": "- Has an environmental impact assessment been conducted?",
+        "answer": "Yes. The fund supports green initiatives via the Crypto Climate Accord and has aligned its ESG progress reports with the UN PRI, suggesting that an environmental impact assessment or consideration of such has taken place."
+    },
+    {
+        "question_id": 143,
+        "question": "Are there any plans to reduce environmental impact?",
+        "answer": "Yes, the fund prioritizes environmental sustainability and supports green initiatives via the Crypto Climate Accord. Insufficient data to determine if specific plans are in place to further reduce environmental impact beyond this initiative."
+    },
+    {
+        "question_id": 144,
+        "question": "- How does the company engage stakeholders on sustainability issues?",
+        "answer": "The firm engages stakeholders on sustainability issues through ESG progress reports aligned with the UN PRI, which are likely shared quarterly. Additionally, the company supports green initiatives via the Crypto Climate Accord and prioritizes environmental sustainability. Stakeholder communication also happens via a secure investor portal and quarterly townhalls."
+    },
+    {
+        "question_id": 145,
+        "question": "Are there any feedback mechanisms for sustainability initiatives?",
+        "answer": "Yes, user feedback suggests that onboarding could be improved; however, no specific mention is made of feedback mechanisms for sustainability initiatives. \n\nHowever, it can be inferred that stakeholder communication happens via a secure investor portal and quarterly townhalls which may provide some mechanism for discussing environmental sustainability priorities. Additionally, the firm supports green initiatives via the Crypto Climate Accord."
+    },
+    {
+        "question_id": 146,
+        "question": "- Are there any sustainability standards for suppliers?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 147,
+        "question": "How does the company ensure compliance with these standards?",
+        "answer": "The company ensures compliance through a combination of:\n\n* Strict compliance protocols for trading\n* Automated surveillance systems to detect market manipulation\n* Annual updates and reviews of tax compliance, insurance coverage, and AML policies by an independent compliance team\n* Regular transaction monitoring and sanctions screening using Chainalysis and Elliptic tools\n* Quarterly townhalls and ESG progress reports aligned with the UN PRI for stakeholder communication"
+    },
+    {
+        "question_id": 148,
+        "question": "- What are the governance policies for the board of directors?",
+        "answer": "Governance decisions are voted on quarterly and publicly documented."
+    },
+    {
+        "question_id": 149,
+        "question": "Are there any independent directors on the board?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 150,
+        "question": "- Are there any shareholder agreements or voting trusts?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 151,
+        "question": "What are the terms of these agreements?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 152,
+        "question": "- What is the compensation structure for executives?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 153,
+        "question": "Are there any performance-based incentives?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 154,
+        "question": "- Is there a succession plan in place for key executives?",
+        "answer": "Insufficient data to answer."
+    },
+    {
+        "question_id": 155,
+        "question": "How does the company ensure continuity in leadership?",
+        "answer": "Insufficient data to answer. There is no mention of leadership succession planning or contingency measures for key personnel, but there is information on the board of directors being composed of experienced professionals."
+    }
+]
